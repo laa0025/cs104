@@ -1,0 +1,17 @@
+------------------------------------------------------------
+Student Name            Final Score     Grade
+------------------------------------------------------------
+Jones                         81.10         B
+Bob                           85.10         B
+John                          80.05         B
+Xiang                         81.45         B
+Frank                         81.30         B
+------------------------------------------------------------
+Number of students in class: 5
+Class average of quiz: 82.00 B
+Class average of lab: 91.80 A
+Class average of test1: 77.20 C
+Class average of test2: 78.40 C
+Class average of Capstone Project: 74.00 C
+Class average of final exam: 79.20 C
+Class average grade: 81.80 B
